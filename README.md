@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F1F1F&height=80&section=header" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=8B5CF6&center=true&vCenter=true&width=500&lines=hey%2C+i'm+cloud+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=1F1F1F&center=true&vCenter=true&width=500&lines=hey%2C+i'm+cloud+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">running <a href="https://luminary.pub">luminary.pub</a>. windows tooling, reverse engineering, discord bots, and the occasional web thing.</p>
