@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=FFFFFF&center=true&vCenter=true&width=500&lines=hey%2C+i'm+ryz+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">running <a href="https://luminary.pub">luminary.pub</a>. windows tooling, reverse engineering, discord bots, and the occasional web thing.</p>
+<p align="center">i’m a 16 yo full stack dev building things with modern web tech. focused on minimal architectures and purposeful software. check out my <a href="https://ryz.wtf/">projects</a> or find me on <a href="https://discord.com/user/444624204147458079/">discord</a> or <a href="https://t.me/justaskidlol/">telegram</a></p>
 
 <h3 align="center">languages</h3>
 
