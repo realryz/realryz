@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="https://ryz.wtf"><img src="https://img.shields.io/badge/ryz.wtf-181a1e?style=for-the-badge&logo=googlechrome&logoColor=1F1F1F" alt="Website" /></a>
-  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/discord-181a1e?style=for-the-badge&logo=discord&logoColor=1F1F1F" alt="Discord" /></a>
-  <a href="mailto:hey@ryz.wtf"><img src="https://img.shields.io/badge/hey@ryz.wtf-181a1e?style=for-the-badge&logo=maildotru&logoColor=1F1F1F" alt="Email" /></a>
+  <a href="https://ryz.wtf"><img src="https://img.shields.io/badge/ryz.wtf-181a1e?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website" /></a>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/discord-181a1e?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" /></a>
+  <a href="mailto:hey@ryz.wtf"><img src="https://img.shields.io/badge/hey@ryz.wtf-181a1e?style=for-the-badge&logo=maildotru&logoColor=FFFFFF" alt="Email" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F1F1F&height=80&section=footer" />
