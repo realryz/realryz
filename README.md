@@ -15,13 +15,13 @@
 <h3 align="center">Frameworks & Libraries</h3>
 
 <p align="center">
-  <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,mysql,astro,tailwind,html,css,git,cloudflare,visualstudio,vscode&theme=dark" alt="stack" /></a>
+  <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,react,git,cloudflare&theme=dark" alt="stack" /></a>
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-  <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=vsc, &theme=dark" alt="langs" /></a>
+  <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=vscode,discord,github,ae&theme=dark" alt="langs" /></a>
 </p>
 
 <p align="center">
