@@ -1,16 +1,27 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F1F1F&height=80&section=header" />
 
-<!--
-**realryz/realryz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=8B5CF6&center=true&vCenter=true&width=500&lines=hey%2C+i'm+cloud+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">running <a href="https://luminary.pub">luminary.pub</a>. windows tooling, reverse engineering, discord bots, and the occasional web thing.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">languages</h3>
+
+<p align="center">
+  <a href="https://luminary.pub"><img src="https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python&theme=dark" alt="langs" /></a>
+</p>
+
+<h3 align="center">stack</h3>
+
+<p align="center">
+  <a href="https://luminary.pub"><img src="https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,mysql,astro,tailwind,html,css,git,cloudflare,visualstudio,vscode&theme=dark" alt="stack" /></a>
+</p>
+
+<p align="center">
+  <a href="https://luminary.pub"><img src="https://img.shields.io/badge/luminary.pub-181a1e?style=for-the-badge&logo=googlechrome&logoColor=8b5cf6" alt="Website" /></a>
+  <a href="https://discord.gg/luminary"><img src="https://img.shields.io/badge/discord-181a1e?style=for-the-badge&logo=discord&logoColor=8b5cf6" alt="Discord" /></a>
+  <a href="mailto:cloud@luminary.pub"><img src="https://img.shields.io/badge/cloud@luminary.pub-181a1e?style=for-the-badge&logo=maildotru&logoColor=8b5cf6" alt="Email" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=80&section=footer" />
