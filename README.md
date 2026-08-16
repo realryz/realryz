@@ -21,7 +21,7 @@
 <h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-  <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=ts,tsx,js,python&theme=dark" alt="langs" /></a>
+  <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=vsc, &theme=dark" alt="langs" /></a>
 </p>
 
 <p align="center">
