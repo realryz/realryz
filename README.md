@@ -6,16 +6,22 @@
 
 <p align="center">i’m a 16 yo full stack dev building things with modern web tech. focused on minimal architectures and purposeful software. check out my <a href="https://ryz.wtf">projects</a> or find me on <a href="https://discord.com/users/444624204147458079">discord</a> or <a href="https://t.me/justaskidlol">telegram</a></p>
 
-<h3 align="center">languages</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
-  <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=ts,tsx,js,python&theme=dark" alt="langs" /></a>
+  <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=ts,js,css,html,python&theme=dark" alt="langs" /></a>
 </p>
 
-<h3 align="center">stack</h3>
+<h3 align="center">Frameworks & Libraries</h3>
 
 <p align="center">
   <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,mysql,astro,tailwind,html,css,git,cloudflare,visualstudio,vscode&theme=dark" alt="stack" /></a>
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+
+<p align="center">
+  <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=ts,tsx,js,python&theme=dark" alt="langs" /></a>
 </p>
 
 <p align="center">
