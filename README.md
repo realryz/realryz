@@ -9,7 +9,7 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=ts,js,html,css,python&theme=dark" alt="langs" /></a>
+  <a href="https://ryz.wtf"><img src="https://skillicons.dev/icons?i=ts,js,rust,python&theme=dark" alt="langs" /></a>
 </p>
 
 <h3 align="center">Frameworks & Libraries</h3>
